@@ -62,7 +62,8 @@ Recent studies highlight the use of Graph Neural Networks (GNNs) and other AI mo
 ---
 
 ## Contact
-Please feel free to email me at [ritiksharma4452@gmail.com](mailto:ritiksharma4451@gmail.com@).
+Please feel free to email me at [ritiksharma4451@gmail.com](mailto:ritiksharma4451@gmail.com).
 
 This project is part of my GitHub directory. Contributions and feedback are always welcome!
-Ritik Sharma
+
+ Ritik Sharma
